@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 537b7e2c89b4c3b4dab444b768eaed5d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundTexture: {instanceID: 0}
+  - companyLogo: {instanceID: 0}
+  - resizeSquareTex: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

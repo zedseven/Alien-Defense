@@ -1,0 +1,16 @@
+Story:
+You are the last line of defence against the invading aliens. You must protect the energy core at all costs, because without it, all power for our weapons, homes, and everything will be lost.  
+
+Action Interface:
+-The two healthbars represent player health and core health left to right respectively.
+-To open or close the defence menu, press "q". Note: in the menu, the Quit button is for quitting the GAME, not the menu.
+
+Defence Interface:
+-You can switch between the Turrets tab and the Guns tab with the two buttons next to the Quit button.
+
+-Turrets tab:
+-All the turret spots are displayed with an icon showing what turret is there.
+-To buy turrets in the Turrets tab, you must first select a turret spot, thenselect the turret you want to buy. You have to have the money for it, though.
+
+-Guns tab:
+-You can buy guns as you please, and the only thing you need to do to buy one is select the gun.

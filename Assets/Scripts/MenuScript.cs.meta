@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 96fd78986ca0e404a860b8f2f3c4fe8b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cameraToUse: {instanceID: 0}
+  - splashScreen: {instanceID: 0}
+  - helpText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

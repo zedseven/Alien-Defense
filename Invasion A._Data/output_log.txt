@@ -1,0 +1,45 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 27.21.14.5148]
+    Renderer: NVIDIA GeForce RTX 2070
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Project Files\Unity Files\Alien Defense\Invasion A._Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Project Files\Unity Files\Alien Defense\Invasion A._Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Project Files\Unity Files\Alien Defense\Invasion A._Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Project Files\Unity Files\Alien Defense\Invasion A._Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Project Files\Unity Files\Alien Defense\Invasion A._Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Project Files\Unity Files\Alien Defense\Invasion A._Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.320 seconds
+desktop: 2560x1080 75Hz; virtual: 4480x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: F:\Project Files\Unity Files\Alien Defense\Invasion A._Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.336000 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 229.
+Total: 1.340300 ms (FindLiveObjects: 0.008400 ms CreateObjectMapping: 0.010000 ms MarkObjects: 0.092500 ms  DeleteObjects: 0.061500 ms)
+
+UnloadTime: 0.706700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1053.
+Total: 2.040000 ms (FindLiveObjects: 0.035600 ms CreateObjectMapping: 0.019500 ms MarkObjects: 0.234100 ms  DeleteObjects: 0.438400 ms)
+
+Platform assembly: F:\Project Files\Unity Files\Alien Defense\Invasion A._Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.385900 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 529 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 8.211900 ms (FindLiveObjects: 0.020300 ms CreateObjectMapping: 0.028900 ms MarkObjects: 0.137200 ms  DeleteObjects: 6.777600 ms)
+
+UnloadTime: 0.632700 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 992.
+Total: 2.549000 ms (FindLiveObjects: 0.046200 ms CreateObjectMapping: 0.025400 ms MarkObjects: 0.353400 ms  DeleteObjects: 0.619600 ms)
+
