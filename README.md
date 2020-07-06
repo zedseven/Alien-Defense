@@ -9,7 +9,7 @@ I made just about everything in the game, from the code to the models and textur
 The only things I didn't make, as far as I can recall, were the font and the barbed wire mesh.
 
 There's lots I would change about it now, but I think it's important to keep it archived as it was when I finished it.
-I pretty much just uploaded it here to have a permanent archive of it, but if you for some reason make modification or change, I'd love to see it!
+I pretty much just uploaded it here to have a permanent archive of it, but if you for some reason make a modification or change, I'd love to see it!
 
 
 ## Some Pictures
