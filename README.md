@@ -8,9 +8,9 @@ It's a blend of FPS and Tower Defense, and it features 3 maps, 5 turret types, 6
 There's lots I would change about it now, but I think it's important to keep it archived as it was when I finished it.
 I pretty much just uploaded it here to have a permanent archive of it, but if you for some reason make modification or change, I'd love to see it!
 
-![One of the maps, 'Triangle'.]("/Assets/Textures/Map Pictures/TriangleCollage.png" "One of the maps, 'Triangle'.")
+![One of the maps, 'Triangle'.](/Assets/Textures/Map\ Pictures/TriangleCollage.png "One of the maps, 'Triangle'.")
 
-![The Flash gun, a special gun that fires very very quickly, but has to reload often.]("/Assets/Textures/GUI Textures/Pictures/GunPictures/FlashPicture.png" "The Flash gun, a special gun that fires very very quickly, but has to reload often.")
+![The Flash gun, a special gun that fires very very quickly, but has to reload often.](/Assets/Textures/GUI\ Textures/Pictures/GunPictures/FlashPicture.png "The Flash gun, a special gun that fires very very quickly, but has to reload often.")
 
 
 
