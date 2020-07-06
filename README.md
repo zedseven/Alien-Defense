@@ -12,6 +12,15 @@ There's lots I would change about it now, but I think it's important to keep it 
 I pretty much just uploaded it here to have a permanent archive of it, but if you for some reason make a modification or change, I'd love to see it!
 
 
+## Controls
+
+Use `WASD` to navigate, click or hold down left-mouse to shoot, and press `Q` to open and close the map/shop menu.
+
+If using the orange **Flash** guns, press `R` to reload.
+
+On the map, click a reticule to select a spot to place a turret, then click the turret you want to put there on the left. You can then buy it with the button on the bottom right.
+
+
 ## Some Pictures
 
 ![One of the maps, 'Triangle'.](/Assets/Textures/Map%20Pictures/TriangleCollage.png "One of the maps, 'Triangle'.")
